@@ -1,0 +1,34 @@
+name: product_list
+description: "A new Flutter project."
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+  http:
+  carousel_slider:
+  hive_flutter:
+  hive:
+  hive_generator: ^2.0.1
+  json_serializable: ^6.8.0
+  build_runner: ^2.1.4
+  analyzer:
+  cupertino_icons: ^1.0.2
+  json_annotation:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
